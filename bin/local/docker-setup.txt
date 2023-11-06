@@ -1,0 +1,14 @@
+# download: https://hub.docker.com/editions/community/docker-ce-desktop-windows
+# ga naar hoofd dir
+cd dir/psopv-2020-groep5
+# build docker image
+docker build -f bin/local/Dockerfile . -t group5/psopv
+# start de container en link poort 8080 en 3000
+docker run -d -p 8080:8080 -p 3000:3000 --name vp-ide group5/psopv
+# om toegang te krijgen tot de container (ssh)
+docker exec -it vp-ide bash
+
+# test data:
+# er staan enkele projecten + tutorials op het admin account
+# gebruikersnaam: beheerder
+# wachtwoord: 9N$A*K8e/T+gQyA

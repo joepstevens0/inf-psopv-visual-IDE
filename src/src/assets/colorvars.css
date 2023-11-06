@@ -1,0 +1,17 @@
+:root {
+    --appbackgroundcolor: black;
+    --backgroundcolor: black;
+    --headercolor: black;
+    --headerbordercolor: black;
+    --ioheadercolor: black;
+
+    --errorbordercolor: black;
+    --errorbackgroundcolor: black;
+    --warningbordercolor: black;
+    --warningbackgroundcolor: black;
+    --succesbordercolor: black;
+    --succesbackgroundcolor: black;
+
+    --basicbuttoncolor: black;
+    --basicbuttonhovercolor: black;
+  }

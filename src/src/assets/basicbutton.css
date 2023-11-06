@@ -1,0 +1,12 @@
+.basicbutton {
+  height: 30px;
+  margin: 5px;
+  background-color: var(--basicbuttoncolor);
+  border: 1px solid var(--basicbuttonbordercolor);
+  border-radius: 10px;
+  color: white;
+}
+.basicbutton:hover {
+  background-color: var(--basicbuttonhovercolor);
+  cursor: pointer;
+}

@@ -1,0 +1,29 @@
+{
+    "startblocks": "#24b92a",
+    "loopblocks": "#ffd34f",
+    "testblocks": "#4c97ff",
+    "mathblocks": "#5cb1d6",
+    "stringblocks": "#FFAB19",
+    "valueblocks": "#0FBD8C",
+    "imageblocks": "#E55C91",
+    "logicblocks": "#95ed99",
+    "functionblocks": "#c94fc9",
+    "apiblocks": "#ff6543",
+
+    "appbackground": "#a2d7f2",
+    "background": "#F2F2F2",
+    "headerbackground": "#28b0ec",
+    "headerborder": "#0387da",
+    "ioheader" : "#47bdf0",
+
+    "errorborder": "red",
+    "errorbackground": "rgb(248, 123, 123)",
+    "warningborder": "#fab91d",
+    "warningbackground": "#fac831",
+    "succesborder": "green",
+    "succesbackground": "rgb(89, 192, 89)",
+
+    "basicbutton": "#28b0ec",
+    "basicbuttonhover": "#0387da",
+    "basicbuttonborder": "#0387da"
+}
